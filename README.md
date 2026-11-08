@@ -13,7 +13,7 @@ I come to this from neurosymbolic AI: combining neural models with explicit symb
 
 ## Public work
 
-- **[Stable Diffusion concept library](https://huggingface.co/mathiaslawson)** — released from a DreamBooth fine-tuning run for my undergraduate thesis on text-to-image generation of web icons. 210+ downloads.
+- **Web Icons** — an `<outline-icon>` style concept trained with Textual Inversion for my undergraduate thesis on text-to-image generation of web icons. Released to the [Stable Diffusion Concepts Library](https://huggingface.co/sd-concepts-library/web-icons-v1) and as a [fine-tuned model](https://huggingface.co/mathiaslawson/web-icons).
 
 Most of my recent engineering is closed-source, built under contract for government and intergovernmental clients in health and public policy. Happy to discuss architecture and design decisions on request.
 
