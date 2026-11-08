@@ -1,6 +1,6 @@
 # Mathias Prince Lawson
 
-I study how systems — artificial and biological — represent the limits of their own competence: how they estimate whether an answer is likely to be right, and use that estimate to commit, gather more evidence, or defer.
+I study how systems, artificial and biological represent the limits of their own competence: how they estimate whether an answer is likely to be right, and use that estimate to commit, gather more evidence, or defer.
 
 I come to this from neurosymbolic AI: combining neural models with explicit symbolic structure so that a system's reasoning can be inspected rather than trusted on faith. I am now extending the question into computational neuroscience, where decision confidence and metacognition are studied directly.
 
