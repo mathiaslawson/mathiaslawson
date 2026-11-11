@@ -23,6 +23,4 @@ BSc Computer Science, Central University, Ghana — First Class Honours, top 1% 
 
 My interest in systems that know when to defer comes from building software for public health data infrastructure and for the African Union, where the cost of a confident wrong answer is not abstract.
 
-Applying for PhD positions for Fall 2027 in computational neuroscience and AI: decision confidence, metacognition, and reliable AI.
-
 📍 Accra, Ghana · ✉️ [mathiaslawson70@gmail.com](mailto:mathiaslawson70@gmail.com)
